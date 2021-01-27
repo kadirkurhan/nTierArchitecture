@@ -1,0 +1,8 @@
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.DataAccess\obj\Debug\netcoreapp3.1\myApiProject.DataAccess.csproj.CoreCompileInputs.cache

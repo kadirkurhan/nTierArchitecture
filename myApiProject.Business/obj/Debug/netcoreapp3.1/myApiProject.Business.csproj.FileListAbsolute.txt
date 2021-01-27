@@ -1,0 +1,8 @@
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.Business\obj\Debug\netcoreapp3.1\myApiProject.Business.csproj.CoreCompileInputs.cache

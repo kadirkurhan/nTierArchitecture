@@ -1,0 +1,10 @@
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\UdemyJwtProje\YSKProje.UdemyJwtProje.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.AssemblyInfoInputs.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.AssemblyInfo.cs
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\myApiProject\myApiProject.WebApi\obj\Debug\netcoreapp3.1\myApiProject.WebApi.MvcApplicationPartsAssemblyInfo.cache
